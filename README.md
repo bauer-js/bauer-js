@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668f50af7d03d0bb6dad6d8c?variant=dark" alt="roadmap.sh"/></a>
 <!--
 **bauer-js/bauer-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
